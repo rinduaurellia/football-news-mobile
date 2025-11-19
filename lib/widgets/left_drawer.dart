@@ -6,7 +6,6 @@ import 'package:football_news/screens/news_entry_list.dart';
 
 class LeftDrawer extends StatelessWidget {
   const LeftDrawer({super.key});
-
   @override
   Widget build(BuildContext context) {
     return Drawer(
